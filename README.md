@@ -1,3 +1,3 @@
-# Zero Hour Modern
+# AfterForge
 
-Releases of Zero Hour Modern (setup files only). Download **ZeroHourModern-Setup.exe** from the latest release and run it; the app updates itself after that.
+Releases of AfterForge (setup files only). Download **AfterForge-Setup.exe** from the latest release and run it; the app updates itself after that.
