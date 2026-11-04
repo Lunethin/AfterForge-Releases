@@ -7,7 +7,7 @@ Prepare and play your own classic games on modern Windows.
 **[Download AfterForge-Setup.exe](https://github.com/Lunethin/AfterForge-Releases/releases/latest/download/AfterForge-Setup.exe)**
 
 <!-- newest-test-version:start -->
-**Newest test version: 0.81.0-rc.17** · [Download AfterForge-Setup.exe](https://github.com/Lunethin/AfterForge-Releases/releases/download/v0.81.0-rc.17/AfterForge-Setup.exe) · [What changed](https://github.com/Lunethin/AfterForge-Releases/releases/tag/v0.81.0-rc.17)
+**Newest test version: 0.81.0-rc.18** · [Download AfterForge-Setup.exe](https://github.com/Lunethin/AfterForge-Releases/releases/download/v0.81.0-rc.18/AfterForge-Setup.exe) · [What changed](https://github.com/Lunethin/AfterForge-Releases/releases/tag/v0.81.0-rc.18)
 
 Test versions are for testing with friends. The button above installs the stable version.
 <!-- newest-test-version:end -->
